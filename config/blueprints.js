@@ -11,6 +11,11 @@
 
 module.exports.blueprints = {
 
+  /**
+   * http://localhost:1337/Articales/Create?title=Articales%20Tow&Body=My%20Second%20Post
+   * We use this methode to create a new object by using the Create function provide Sails
+   */
+
   /***************************************************************************
   *                                                                          *
   * Automatically expose implicit routes for every action in your app?       *
